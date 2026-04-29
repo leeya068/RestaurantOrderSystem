@@ -1,0 +1,8 @@
+101,Margherita Pizza,12.99,10
+102,Pepperoni Pizza,14.99,8
+103,Caesar Salad,8.99,15
+104,Garlic Bread,4.99,20
+105,Chocolate Cake,6.99,12
+106,Coke,2.99,50
+107,Sprite,2.99,41
+108,French Fries,5.99,30
